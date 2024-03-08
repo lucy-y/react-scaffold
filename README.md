@@ -7,3 +7,4 @@
 
 ## 문서
 - [React](https://ko.legacy.reactjs.org/)
+- [Next.js](https://nextjs.org/)
